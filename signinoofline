@@ -1,0 +1,13 @@
+curl 'https://www.facebook.com/tr/?id=280549965449042&ev=SubscribedButtonClick&dl=https%3A%2F%2Fu.pcloud.com%2F%23page%3Dregister%26invite%3DtKi47ZA00VW7&rl=&if=false&ts=1627018061732&cd\[buttonFeatures\]=%7B%22classList%22%3A%22butt%20submitbut%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Create%20account%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd\[buttonText\]=Create%20account&cd\[formFeatures\]=%5B%5D&cd\[pageFeatures\]=%7B%22title%22%3A%22pCloud%20%3A%3A%20Register%22%7D&cd\[parameters\]=%5B%5D&sw=1600&sh=720&udff\[em\]=728ac5152a753cd8ca819d112f4d36b185369b0fe0e01bde068d09c5c0765979&v=2.9.43&r=stable&ec=2&o=2078&fbp=fb.1.1627017835592.123907867&it=1627017834289&coo=false&es=automatic&tm=3&rqm=GET' \
+  -H 'Referer: https://u.pcloud.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://api.pcloud.com/register?termsaccepted=yes&mail=jadu18201016%40mailto.plus&password=AnaZ1234%23&os=4&device=Mozilla%2F5.0+(X11%3B+Linux+aarch64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F89.0.4389.114+Safari%2F537.36&language=en&invite=tKi47ZA00VW7' \
+  -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'Referer: https://u.pcloud.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://pcdn-u.pcloud.com/img/loading_button.png' \
+  -H 'Referer: https://pcdn-u.pcloud.com/MZWI/dist/css/common.css' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed
